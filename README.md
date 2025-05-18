@@ -98,3 +98,7 @@ You can use tools like [Postman](https://www.postman.com/) or [curl](https://cur
 This project is open-source and available under the [MIT License](LICENSE).
 
 ![alt text](image.png)
+
+# Serverless Notification Service Architecture
+
+![alt text](task2.png)
